@@ -1,0 +1,15 @@
+Vous avez à disposition des données au format JSON:
+une liste de noms de personnes
+et
+une liste d'âges
+
+But du TP
+A chaque exécution, le code du module doit générer une phrase
+“<NOM_PERSONNE> a <AGE> ans. C’est une personne majeure.”
+Evidemment, la 2ème phrase dépend de l’âge de la personne.
+
+Moyen
+Vous disposez de 3 fichiers:
+→ index.js (point d’entrée),
+→ user-generator.js (méthodes de tirage aléatoire d’un nom et d’un âge)
+→ data.json (contenant les 2 listes)
